@@ -1,0 +1,417 @@
+body{
+   
+    box-sizing: border-box;
+    margin: 0;
+    background-color:#f5f5f5;
+    padding: 0;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";;
+}
+
+
+#home{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(../img/hero-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+   
+}
+@keyframes typing {
+    0% {
+      content: " D |";
+    }
+  
+    2% {
+      content: " De |";
+    }
+  
+    4% {
+      content: " Dev |";
+    }
+  
+    6% {
+      content: " Deve|";
+    }
+  
+    8% {
+      content: " Devel |";
+    }
+  
+    10% {
+      content: " Develo |";
+    }
+  
+    12% {
+      content: " Develop |";
+    }
+  
+    14% {
+      content: " Develope |";
+    }
+  
+    16% {
+      content: " Developer |";
+    }
+  
+    18% {
+      content: " Develope |";
+    }
+  
+    20% {
+      content: " Develop |";
+    }
+  
+    22% {
+      content: " Develo |";
+    }
+  
+    24% {
+      content: " Devel |";
+    }
+  
+    26% {
+      content: " Deve |";
+    }
+  
+    28% {
+      content: " Dev |";
+    }
+  
+    30% {
+      content: " De |";
+    }
+  
+    32% {
+      content: " D |";
+    }
+  
+    /* 52% {
+          content: "  |";
+        } */
+  
+    33% {
+      content: " D |";
+    }
+  
+    34% {
+      content: " De|";
+    }
+  
+    35% {
+      content: " Des |";
+    }
+  
+    36% {
+      content: " Desi|";
+    }
+  
+    37% {
+      content: " Desig |";
+    }
+  
+    38% {
+      content: " Design |";
+    }
+  
+    39% {
+      content: "Designe |";
+    }
+  
+    40% {
+      content: "Designer |";
+    }
+  
+    41% {
+      content: "Designe |";
+    }
+  
+    42% {
+      content: "Design| ";
+    }
+  
+    43% {
+      content: "Desig | ";
+    }
+  
+    44% {
+      content: "Desi| ";
+    }
+  
+    45% {
+      content: "Des | ";
+    }
+  
+    46% {
+      content: "De | ";
+    }
+  
+    47% {
+      content: "D | ";
+    }
+  
+    48% {
+      content: "F |";
+    }
+  
+    49% {
+      content: "Fr |";
+    }
+  
+    50% {
+      content: "Fre |";
+    }
+  
+    51% {
+      content: "Free |";
+    }
+  
+    52% {
+      content: "Freel |";
+    }
+  
+    53% {
+      content: "Freela |";
+    }
+  
+    54% {
+      content: "Freelan|";
+    }
+  
+    55% {
+      content: "Freelanc|";
+    }
+  
+    56% {
+      content: "Freelance|";
+    }
+  
+    57% {
+      content: "Freelancer|";
+    }
+    58% {
+      content: "Freelance|";
+    }
+    59% {
+      content: "Freelanc|";
+    }
+    60% {
+      content: "Freelan|";
+    }
+    61% {
+      content: "Freela |";
+    }
+    62% {
+      content: "Freel |";
+    }
+    63% {
+      content: "Free |";
+    }
+    64% {
+      content: "Fre |";
+    }
+    65% {
+      content: "Fr |";
+    }
+    66% {
+      content: "F |";
+    }
+    67%{
+      content: "P |";
+    }
+    68%{
+      content: "Ph|";
+    }
+    69%{content: "Pho|";}
+    70%{content: "Phot|";}
+    71%{content: "Photo|";}
+    72%{content: "Photog|";}
+    73%{content: "Photogr|";}
+    74%{content: "Photogra|";}
+    75%{content: "Photograp|";}
+    76%{content: "Photograph|";}
+    77%{content: "Photographe|";}
+    78%{content: "Photographer|";}
+    79%{content: "Photographe|";}
+    80%{content: "Photograph|";}
+    81%{content: "Photograp|";}
+    82%{content: "Photogra|";}
+    83%{content: "Photogr|";}
+    84%{content: "Photog|";}
+    85%{content: "Photo|";}
+    86%{content: "Pho|";}
+   
+    87%{
+      content: "Ph|";
+    }
+    88%{
+      content: "P |";
+    }
+  
+
+  
+  }
+  .caption p span::before {
+    color: white;
+    content: "|";
+    /* font-family: "Source Sans Pro", sans-serif;
+        font-size: 26px;
+        font-weight: 300; */
+    /* border-right: 0.15em solid #fff; */
+    animation: typing 9s infinite;
+  }  
+.caption h1{
+    font-size: 72px;
+  
+}
+
+.second_section{
+   background-color:  #f5f5f5;
+}
+.skill{
+    font-size: 20px;
+}
+.right P{
+    font-size: 20px;
+   color: #8b8787;
+    line-height: 30px;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.services h2{
+  font-size: 48px;
+}
+.icons{
+   height: 45%;
+   padding-top:8%;
+   border: 10px #0078ff solid;
+}
+
+
+
+.section-3
+{
+    overflow: hidden;
+    background-image: url(../img/counters-bg.jpg);
+    width: 100%;
+    height: 70vh;
+    background-position: center center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.section-3 .overlay{
+    background-color:#0078ff;
+   
+}
+.icon{
+    border: 12px  #cde1f8 solid;
+    width: 100px;
+    height: 100px;
+}
+.pluss{
+
+    border: 4px #0078ff solid;
+    width: 50px;
+    height: 50px;
+    margin-left: 55%;
+}
+
+
+
+body{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+background-color:#f5f5f5;
+
+}
+
+/* .section{
+    background-color: blanchedalmond;
+} */
+
+.plus{
+    border: 4px #0078ff solid; width: 50px; height: 50px;
+}
+.plus-text{
+   font-size: 35px; font-weight: bold; color: #0078ff
+}
+span{
+    color: blue;
+}
+.imgg{
+   
+    overflow: hidden;
+}
+.imgg img{
+    transition: all 1.5s;
+}
+.imgg img:hover{
+
+    transform:scale(1.5);
+}
+.slider{
+    background-image: url(../img/overlay-bg.jpg);
+    background-size: 100% 100%;
+    margin-top: 5%;
+    width: 100%;
+
+    height: 70vh;
+}
+.slider .overlay{
+    
+    background-color:rgb(0, 122, 255, .7);
+  
+   						 
+    width: 100%;
+    height: 70vh;
+}
+.carousel-indicators [data-bs-target] {
+    border-radius: 50%;
+    background-color: #fff;
+    border: 0;
+    height: 12px;
+    width: 12px;
+    margin: 0 5px !important;
+  }
+.carousel-item{
+    color: white;
+}  
+
+.parent
+{
+    overflow: hidden;
+    background-image: url(../img/overlay-bg.jpg);
+    width: 100%;
+   
+    background-position: center center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parent .overlayy{
+    
+    background-color:rgb(0, 122, 255, .7);
+  
+   						 
+    width: 100%;
+   
+}
+.s-hover{
+    width: 100px; height: 100px; border: 8px rgb(63, 121, 230) solid;
+   transition: all .2s ;
+   
+   
+}
+.space:hover .s-hover{
+    
+    
+    border: 13px  rgb(191, 209, 235) solid;
+    background-color: rgb(95, 143, 237);  
+  
+}
+.last-section-hover{
+    width: 30px; height:35px; border: 3px  rgb(23, 79, 198) solid; margin-right: 10px;
+    /* transition: all 1s; */
+}
+.last-section-hover:hover{
+    border: 4px  rgb(207, 217, 239) solid;
+    background-color: rgb(95, 143, 237);  
+}
