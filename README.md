@@ -7,7 +7,7 @@ this file repo contain tasks i do during learning front end starting from html -
 -- file name Task_2  practice on html and css 
 https://eman-nemo.github.io/frontend.github.io/Task_2/         (second_task_design)
 
--- file name backery  practice on html css js bootstrab
-https://eman-nemo.github.io/frontend.github.io/backery/         (second_task_design)
+-- file name backeray  practice on html css js bootstrab
+https://eman-nemo.github.io/frontend.github.io/backeray/         (second_task_design)
 
 
