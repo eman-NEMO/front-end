@@ -1,0 +1,138 @@
+.home{
+    font-family: "Alegreya";
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-size: 100% 100%;
+    height: 100vh;
+    color: white !important;
+}
+
+.nav-link{
+    color: white !important;
+    font-size: 20px;
+}
+
+.navbar {
+    
+    background-color: transparent;
+    transition: background-color 0.3s ease;
+    /* Add other styling here */
+}
+
+
+.navbar.scrolled {
+    /* color: black !important; */
+    background-color: #e9e6e6 !important; /* Change this to your desired color */
+    /* Add other styling here */
+}
+.navbar.scrolled a {
+    color:black !important; /* Change this to your desired text color when scrolled */
+}
+
+.text{
+    margin-top: 15%;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+}
+.col-md-1{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px black solid ;
+    margin-right: 5%;
+    
+}
+.third_section{
+   background-color: #e9e6e6;
+    margin-top: 10%;
+}
+.p_1{
+   line-height: 2;
+}
+#footer-main{
+    margin-top: 5%;
+    background-color: #403d38;
+    color: rgba(255, 255, 255, 0.537);
+}
+#footer ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+/* Target the div elements within your widget */
+.kk {
+    border-bottom: .5px solid #605d57; /* Add a 1px solid line at the bottom of each div with class "d-flex" */
+    padding-bottom: 10px; /* Add some spacing between the line and the content (adjust as needed) */
+    margin-bottom: 10px; /* Add space between each "d-flex" div (adjust as needed) */
+}
+
+.pr_widget_contact_details a {
+    text-decoration: none; /* Remove underline */
+    color:rgba(255, 255, 255, 0.537)/* Set the text color to red */
+}
+/* Target the widget-contact-details-item divs and add a horizontal line under each one */
+.widget-contact-details-item {
+    border-bottom: .5px solid #605d57; /* Add a 1px solid line at the bottom of each div with class "d-flex" */
+    padding-bottom: 10px; /* Add some spacing between the line and the content (adjust as needed) */
+    margin-bottom: 10px;
+    
+}
+
+#footer-bottom{
+    background-color: #2e2e2e;
+    color:#605d57;
+    text-align: center;
+  
+}
+
+.ic{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #403d38;
+    justify-content: center;
+    align-items: center;
+}
+.ic:hover{
+    background-color:rgb(26, 96, 153);
+}
+.fixed{
+    width: 50px;
+    height: 100px;
+    background-color: white;
+    position: fixed;
+    left: 97%;
+    z-index: 11111;
+     font-size: 25px;
+     color: rgb(75, 84, 84);
+    top: 50%;
+    border-radius: 1%;
+
+}
+.we{
+    background-color: #e9e6e6;
+    margin-top: 5%;
+}
+.last i {
+    background-color: #826936;
+    display: flex;
+    color: white;
+    justify-content: center;
+    /* color: #fff; */
+     border: 1px solid;
+    width: 36px;
+    height: 36px;
+    border-radius: 100%;
+    line-height: 36px;
+    font-size: 18px;
+    top: 10px;
+}

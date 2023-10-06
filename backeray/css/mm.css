@@ -1,0 +1,19 @@
+.ss{
+    background-color: aqua;
+    width: 80%;
+    overflow: hidden;
+}
+.im{
+    float: left;
+    background-color: bisque;
+    width: 50%;
+}
+.im img{
+    width: 10%;
+
+}
+.desc{
+    float: left;
+    background-color: #09c;
+    width: 30%;
+}
