@@ -1,0 +1,35 @@
+:root
+{
+    --main-color:#0aad0a;
+}
+
+.box{
+    border: 1px solid black;
+      justify-content: space-between;
+     /* transition: box-shadow .3s; */
+ 
+
+  border-radius:10px;
+  border: 1px solid #ccc;
+  background: #fff;
+  float: left;
+}
+
+.roww{
+  transition: .5s;
+}
+.roww:hover{
+  box-shadow: 0 0 11px rgba(43, 132, 53, 0.797); 
+  border: none;
+  /* color: white !important; */
+  
+}
+
+.overlay{
+  height: 100vh;
+  z-index: 11111;
+  /* background-color:rgba(152, 13, 13, 0.3) */
+}
+.center{
+  margin-top: 50%;
+}
