@@ -1,0 +1,38 @@
+
+  .form-control:focus {
+    border-color: #7ca21c;
+  
+  }
+  body{
+    background-color:#ac9f87;
+  }
+
+
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  text-decoration: underline;
+}
+
+#logoutButton{
+   position: absolute;
+
+   top: 1%;
+   left:90%;
+}
+.hh{
+  position: absolute;
+  left: 2%;
+}
+.jjj{
+  height: 100px;
+}
+#kk{
+  font-size: 50px;
+  font-weight: bold;
+}
+#color{
+color: coral;
+}
