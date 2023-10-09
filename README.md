@@ -20,3 +20,6 @@ https://eman-nemo.github.io/frontend.github.io/Task_5/
 
 --file name Task_7 on html  css and js login & registration validation using redux and using local storage to store info 
 https://eman-nemo.github.io/frontend.github.io/Task_7/
+
+--file name Task_8 on html  css and js validation and localstorage usage of crud operation 
+https://eman-nemo.github.io/frontend.github.io/Task_8/
