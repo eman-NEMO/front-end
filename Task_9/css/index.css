@@ -1,0 +1,19 @@
+.demo{
+    font-size: 50px;
+    font-weight: bold;
+}
+.demo1{
+    font-size: 30px;
+}
+.btn{
+    width: 25%;
+    border: 2px solid black;
+    background-color: cadetblue;
+}
+.btn:hover{
+    background-color:cadetblue;
+}
+#q,#q1{
+ font-size: 20px;
+ font-weight: bold;
+}
