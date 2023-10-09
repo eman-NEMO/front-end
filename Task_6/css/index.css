@@ -1,0 +1,160 @@
+
+
+body{
+  color: white !important;
+  background-color:#1e202b;
+  position: relative;
+  /* height: 50000px; */
+}
+.navbar{
+  background: #1e202b !important;
+  color: white !important;
+}
+.navbar-brand{
+  color: white !important;
+}
+.first{
+  border: 2px  solid;
+  border-color: rgb(0, 154, 216);
+  color: rgb(0, 154, 216);
+}
+.icon{
+  width: 100px;
+  height: 30px;
+  margin-top: 2%;
+  padding-top: 1px;
+  /* margin: auto; */
+  cursor: pointer;
+
+}
+img{
+  width: 70px;
+  height: 60px;
+  margin-top: 11px;
+}
+.icon:hover{
+  border: 2px  solid;
+  border-color: rgb(0, 154, 216);
+  color: rgb(0, 154, 216);
+  /* background-color: rgb(0, 154, 216); */
+}
+.section_two{
+  background-image: url(../banner.png);
+  background-size: 100% 100%;
+   /* background-color: #1e202b; */
+  height: 50vh;
+  /* position: relative; */
+}
+.footer{
+  /* position: absolute; */
+  height:70%;
+  /* position: absolute; */
+   /* z-index: 11; */
+  /* bottom: 0; */
+  margin-top: 10%;
+  background-color:rgb(38, 41, 54);;
+}
+.inside{
+  border: none;
+}
+/* .section_two{
+  max-height: 100vh;
+  background-color: #1e202b;
+} */
+/* .collapse{
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+} */
+.collapse .icon{
+    /* margin-left: 40%; */
+}
+.form-control{
+ height: 50px; 
+ /* background-color: #1e202b !important; */
+ border: none;
+
+}
+.form-control:focus{
+  box-shadow: none;
+}
+.inside::placeholder {
+  color: white;
+}
+#submit{
+  left: 82%;
+  top: 52%;
+  width: 5%;
+  height: 45px;
+}
+.footer .container{
+  width: 67%;
+}
+.ico{
+
+ width: 50px;
+ height: 50px;
+ font-size: 25px;
+  background-color:#1e202b;
+  color: rgb(0, 154, 216);
+}
+.btnn{
+  background-color: rgb(9, 163, 224);
+  color: white;
+  border: none;
+}
+.ico:hover{
+  background-color: rgb(0, 154, 216);
+  color: white;
+}
+
+
+
+
+
+
+/* navbar */
+
+
+
+/* header */
+
+
+
+
+
+
+
+/* content */
+
+
+
+
+.Img{
+  width: 25px;
+  height: 25px;
+}
+.temp{
+  font-size: 70px;
+  font-weight: bold;
+}
+.card{
+  background-color:#323545;
+  color: white;
+  padding: 0%;
+  
+}
+.card-header{
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+#_2{
+  background-color: #272936;
+}
+.textt{
+  color: rgb(47, 103, 176);
+}
+.ttt{
+  color: rgb(47, 103, 176);
+}
