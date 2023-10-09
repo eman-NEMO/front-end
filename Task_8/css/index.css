@@ -1,0 +1,16 @@
+/* .form-control:focus {
+    outline: none !important;
+    border: black !important;
+    box-shadow: none !important;
+  } */
+  .form-control:focus {
+    border-color: #7ca21c;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 137, 21, 0.6);
+  }
+  body{
+    background-color:#f0ddbe;
+  }
+  .valid{
+    color: red;
+    font-weight: bold;
+  }
