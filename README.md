@@ -26,3 +26,6 @@ https://eman-nemo.github.io/frontend.github.io/Task_8/
 
 --file name Task_9 on html  css and js bootstrap generatig random quoetes using api
 https://eman-nemo.github.io/frontend.github.io/Task_9/
+
+--file name Task_10 on html  css and js  some problem solving operations 
+https://eman-nemo.github.io/frontend.github.io/Task_10/
