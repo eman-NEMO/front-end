@@ -23,3 +23,6 @@ https://eman-nemo.github.io/frontend.github.io/Task_7/
 
 --file name Task_8 on html  css and js validation and localstorage usage of crud operation 
 https://eman-nemo.github.io/frontend.github.io/Task_8/
+
+--file name Task_9 on html  css and js bootstrap generatig random quoetes using api
+https://eman-nemo.github.io/frontend.github.io/Task_9/
