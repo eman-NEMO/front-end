@@ -18,4 +18,5 @@ https://eman-nemo.github.io/frontend.github.io/Task_5/
 
 -- file name Task_6  practice on Apis and js  https://eman-nemo.github.io/frontend.github.io/Task_6/
 
---file name Task_7 on html  css and js login & registration validation using redux and using local storage to store info  https://eman-nemo.github.io/frontend.github.io/Task_7/
+--file name Task_7 on html  css and js login & registration validation using redux and using local storage to store info 
+https://eman-nemo.github.io/frontend.github.io/Task_7/
